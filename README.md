@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jeffhorn324g
 - 👀 I’m interested in real world applications of software.  And fun!
-- 🌱 I’m currently learning everything about Unity's "Articulation Bodies" and "Configurable Joint" cmponents. 
+- 🌱 I’m currently learning everything about Unity's "Articulation Bodies" and "Configurable Joint" components. 
 - 💞️ I’m looking to collaborate on building Unity and programming knowledge.
 - 📫 Feel free to email at jeffhorn324g@gmail.com
 
